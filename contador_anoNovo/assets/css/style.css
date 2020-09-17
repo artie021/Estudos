@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+body{
+    display: grid; 
+    grid-template-rows: 200px 200px;
+    font-family: 'Pacifico', cursive;
+    justify-items: center;
+    font-size: 35px;
+    color: white;
+    padding-top: 70px;
+    align-items: center;
+    background-position: center center;
+    margin: 0;
+  
+}
+
+
+img{
+   max-width: 100%;
+   height: auto;  
+   
+}
+.container{
+    justify-items: center;
+    display: grid;
+    padding-bottom: 120px;
+    
+    
+}
+.count-container{ 
+    font-family: 'Squada One', cursive;
+    font-size: 80px;
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 30vh 30vh 30vh 30vh;
+    
+    
+}
+.d{
+    display: grid;
+    grid-template-columns: 30vh 30vh 30vh 30vh;
+    justify-items: center;
+    font-size: 18px;
+}
+
+
